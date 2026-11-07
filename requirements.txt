@@ -1,0 +1,2 @@
+# No third-party packages required.
+# Pure Python 3.9+ (stdlib: argparse, json, struct, zipfile, re, …)
